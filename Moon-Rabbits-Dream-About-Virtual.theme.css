@@ -42,7 +42,7 @@
 
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
     --H: 210; /* Value in numbers [339 is default] */
-    --S: 0%; /* Value in % [97% is default] */
+    --S: 97%; /* Value in % [97% is default] */
     --L: 89%; /* Value in % [71% is default] */
 
     /* HSL DarkTheme */
@@ -63,8 +63,8 @@
     --streaming-color: #f066f0;
 
     /* Chatbar Colors */
-    --channeltextarea-background: #F0F2F2;
-    --text-color: #313D40;
+    --channeltextarea-background: #6A85BD;
+    --text-color: #2D2D31;
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
     --selected-text-color: var(--channeltextarea-background);
