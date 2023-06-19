@@ -6,7 +6,9 @@
  * @invite PsNtzGeHuW
  * @donate https://www.paypal.me/hurtyoutube
  * @website https://github.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual
- * @source https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css
+ * @source https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/tsukino-mito-base.css
+ * @import https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css
+ * @import https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css
  * @version 3
 */
 
@@ -41,13 +43,13 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "AZURA_MIST";
+    --custom-text: "";
 
     /* General Colors */
     --border-color: #829DBF;
-    --drag-gradient1: #e8c4d3;
-    --drag-gradient2: #e39ba7;
-    --name-bg: #d95b72;
+    --drag-gradient1: #95AECF;
+    --drag-gradient2: #95AECF;
+    --name-bg: #95AECF;
 
     /* Background Colors & BG Image */
     --bg-gradient1: #B4C7D5;
@@ -58,9 +60,9 @@
     --bg-blur: 6px; /* Value in px */
 
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
-    --H: 339; /* Value in numbers [339 is default] */
-    --S: 97%; /* Value in % [97% is default] */
-    --L: 71%; /* Value in % [71% is default] */
+    --H: 210; /* Value in numbers [339 is default] */
+    --S: 0%; /* Value in % [97% is default] */
+    --L: 89%; /* Value in % [71% is default] */
 
     /* HSL DarkTheme */
     --darkH: 0;     /* Value in numbers [0 is default] */
