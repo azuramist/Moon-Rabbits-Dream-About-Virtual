@@ -6,7 +6,7 @@
  * @invite PsNtzGeHuW
  * @donate https://www.paypal.me/hurtyoutube
  * @website https://github.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual
- * @source https://github.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual/blob/main/release/tsukino-mito.base.css
+ * @source https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css
  * @version 3
 */
 
@@ -88,7 +88,7 @@
     --mentioned-color: 200, 100%, 60%; /* HSL Values Only */
 
     /* Other options */
-    --border-width: 3px;
+    --border-width: 0px;
     --round-corners: 16px;
 }
 
