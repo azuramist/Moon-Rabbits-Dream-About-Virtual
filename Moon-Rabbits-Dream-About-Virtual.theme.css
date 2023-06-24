@@ -15,11 +15,8 @@
 ---------------------------------------------------------------*/
 @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css');
 
-
 /* Pop Effect */
 @import url("https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/pop.css");
-
-body{background:url('https://i.imgur.com/cEpzpDa.jpg') rgba(139, 84, 176, 1);}
 
 /*------------------------------------------------------
                 all the customization
@@ -38,7 +35,7 @@ body{background:url('https://i.imgur.com/cEpzpDa.jpg') rgba(139, 84, 176, 1);}
     --bg-gradient1: #B4C7D5;
     --bg-gradient2: #B4C7D5;
     --bg-gradient3: #B4C7D5;
-    --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
+    --bg-image: https://imgur.com/gallery/5PcHlX5; /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
@@ -65,8 +62,8 @@ body{background:url('https://i.imgur.com/cEpzpDa.jpg') rgba(139, 84, 176, 1);}
     --streaming-color: #f066f0;
 
     /* Chatbar Colors */
-    --channeltextarea-background: #6A85BD;
-    --text-color: #2D2D31;
+    --channeltextarea-background: #697A9E;
+    --text-color: #1C1C23;
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
     --selected-text-color: var(--channeltextarea-background);
