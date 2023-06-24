@@ -1,18 +1,12 @@
 /**
- * @name Moon Rabbits Dream About Virtual
- * @description Based in Tsukino Mito Album Presentation
- * @author zuzumi#5335
- * @authorId 437579806616322049
- * @invite PsNtzGeHuW
- * @donate https://www.paypal.me/hurtyoutube
- * @website https://github.com/zuzumi-f/Moon-Rabbits-Dream-About-Virtual
+
  * @source https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css
- * @version 3
-*/
 
 /*---------------------------------------------------------------
                Make it look Like Another Window
 ---------------------------------------------------------------*/
+
+/* Another Window */
 @import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css');
 
 /* Pop Effect */
@@ -35,7 +29,7 @@
     --bg-gradient1: #B4C7D5;
     --bg-gradient2: #B4C7D5;
     --bg-gradient3: #B4C7D5;
-    --bg-image: https://imgur.com/gallery/5PcHlX5; /* Write the image url, example url("your url") [none is default]*/
+    --bg-image: none; /* Write the image url, example url("your url") [none is default]*/
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 6px; /* Value in px */
 
